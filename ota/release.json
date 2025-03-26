@@ -1,0 +1,10 @@
+{
+  "version": "1.3.0",
+  "release_date": "2025-04-01",
+  "changelog": [
+    "Added OTA feature",
+    "Improved Wi-Fi connection stability",
+    "Fixed reboot counter reset bug"
+  ],
+  "download_url": 
+}
